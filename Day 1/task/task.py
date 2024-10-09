@@ -1,9 +1,8 @@
-# Write your code below this line 👇
-print("Hello world!")
+print("My name is" + " " + "Angela")
 
-# \n Statement
-print("Hello World1!\nHello World2!")
-print("Hello WorldA!\nHello WorldB!\nHello World3C")
+# == -- Input -- ==
+# input("Enter your name here: ")
 
-# + Statement
-print("Hello World 1A" + " - " + "Hello World 2A")
+# Take an input for the output
+# print("Greeting " + input("Enter your name here: "))
+print("Greeting " + input("Enter your name here: ") + "!")
